@@ -1,4 +1,4 @@
-# Druga-zadaca-iz-PNMuSI - Rjeˇsavanje sistema linearnih jednaˇcina
+# Druga-zadaca-iz-PNMuSI - Rješavanje sistema linearnih jednačina
 
 1. Napisati program (u programskom jeziku po želji) za rješavanje sistema linearnih algebarskih jednačina koristeći Gauss-Jordanovu metodu eliminacije. Program treba da ima minimalno sljedeće karakteristike:
 a) unos broja jednačina, koeficijenata matrice sistema i vektora kolone nehomogenih članova;  
